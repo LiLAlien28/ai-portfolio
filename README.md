@@ -1,6 +1,6 @@
 # AI Portfolio – Muhammad Aamir
 
-BS Data Science student focused on Machine Learning and Generative AI.
+BS Data Science student focused on Machine Learning, Deep Learning and Generative AI.
 
 ## Areas of Interest
 - Machine Learning
