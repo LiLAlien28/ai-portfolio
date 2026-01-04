@@ -13,3 +13,4 @@ BS Data Science student focused on Machine Learning, Deep Learning and Generativ
 - [Generative AI Projects](genai-projects.md)
 
 ## Contact
+https://www.linkedin.com/in/moaamir28/
