@@ -13,4 +13,3 @@ BS Data Science student focused on Machine Learning, Deep Learning and Generativ
 - [Generative AI Projects](genai-projects.md)
 
 ## Contact
-- LinkedIn: (add later)
